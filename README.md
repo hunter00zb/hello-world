@@ -1,5 +1,3 @@
-# hello-world
-hello world！
 # 🌟 Project Name
 
 > 一句话项目描述，简明扼要地说明这个项目是做什么的
